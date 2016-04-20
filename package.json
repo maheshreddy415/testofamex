@@ -1,0 +1,18 @@
+{
+  "name": "testofamex",
+  "version": "1.0.0",
+  "description": "Test of Amex. Manage contacts - add, edit and delete contacts usingnode js, mysql, html, css, bootstrap.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahesh Parlapalli (mahesh.parlapalli@cognizant.com)",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "multer": "^1.1.0",
+    "mysql": "^2.10.2",
+    "socket.io": "^1.4.5"
+  }
+}
