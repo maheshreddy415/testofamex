@@ -1,0 +1,57 @@
+.navbar-default {
+	background-color : rgb(0, 114, 198);
+	color : white;
+}
+
+.navbar-default .navbar-toggle {
+	border-color : #FFF;
+}
+
+.navbar-default .navbar-toggle:hover  {
+	background-color : #FFF;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color : #FFF;
+}
+
+.navbar-default .navbar-toggle:hover .icon-bar{
+	background-color : rgb(0, 114, 198);
+}
+
+.colorBlue {
+	color : rgb(0, 114, 198);
+}
+
+.navbar-default .navbar-header a {
+	color : white;
+	font-size : 2em;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color : white;
+}
+
+.marT10 {
+	margin-top : 10px;
+}
+
+.marT20 {
+	margin-top : 20px;
+}
+
+.marT30 {
+	margin-top : 30px;
+}
+
+.marT40 {
+	margin-top : 40px;
+}
+
+.marT70 {
+	margin-top : 70px;
+}
+
+#addcontactform  label{
+	font-weight:normal;
+}
